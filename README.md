@@ -1,4 +1,8 @@
-# Cyclistic Bike-Share Usage Analysis
+# Cyclistic Bike-Share Usage Analysis (2023-2024)
+
+- Analyzing Cyclistic Bike-Share usage (2023-2024), using Excel,SQL and Tableau.
+
+![Alt image](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Cyclistic%20Bike-Share%20Dashboard%202023-2024.png)
 
 ## **Executive Summary**
 Cyclistic, a bike-share company in Chicago, is seeking to grow its base of annual memberships by converting casual riders into members. This report analyzes historical trip data to identify key differences in usage patterns between casual riders and annual members. Key findings reveal disparities in trip durations, time-of-use patterns, and bike preferences, such as:
@@ -54,11 +58,12 @@ Tools used include SQL, Tableau, and Excel.
 
 ### **1. Trip Duration and Frequency**
 - Casual riders have longer average trip durations (24.1 minutes) compared to members (12.5 minutes).
-**Visualization**: Bar chart comparing average trip durations by user type (Distribution of Trip Durations).
+  
+![Alt image](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Average%20Trip%20Duration%20by%20User%20Type.png).
 
 - Casual riders dominate longer trips (>60 minutes), while members dominate shorter trips (5–15 minutes).
 
-**Visualization**: Distribution of Trip Durations
+![Alt image](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Distribution%20of%20Trip%20Durations.png)
 
 ---
 
@@ -67,19 +72,21 @@ Tools used include SQL, Tableau, and Excel.
 - Members are consistent during weekdays, peaking during commute hours.
 - Casual riders peak on weekends.
 
-**Visualization**: Grouped bar chart showing daily usage patterns.
+![Alt image](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Daily%20Usage%20Trends.png)
 
 #### **Hourly Usage**:
 - Members peak in the morning (8 AM) and evening (5–6 PM), indicating commuting behavior.
 - Casual riders peak midday, indicating leisure usage.
 
 
-**Visualization**: Line chart showing hourly usage trends.
+![Alt image](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Hourly%20Usage%20Trends.png)
 
 
 - **Seasonal Trends:**  
-  - Casual ridership surges during summer months (June–August).  
-  - **Visualization:** Heatmap of ride volume by month.
+  - Casual ridership surges during summer months (June–August).
+
+  
+![Alt image](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Monthly%20Trends.png)
   
 ---
 
@@ -87,14 +94,14 @@ Tools used include SQL, Tableau, and Excel.
 - Popular starting locations for casual riders include tourist hotspots (e.g., Streeter Dr & Grand Ave).
 - Members favor stations near commercial areas.
 
-**Visualization**: Horizontal bar chart showing top 10 popular starting stations.
+![Alt image](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Popular%20Starting%20Stations.png)
 
 ---
 
 ### **4. Bike Type Preferences**
 - Members primarily use classic bikes, while casual riders have a higher preference for electric bikes.
 
-**Visualization**: Stacked bar chart comparing bike preferences by user type.
+![Alt image](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Bike%20Type%20Distribution.png)
 
 ---
 
@@ -117,6 +124,6 @@ This analysis highlights clear differences in usage patterns between casual ride
 ---
 
 ## **References**
-1. **Data Source**: Cyclistic trip data https://divvy-tripdata.s3.amazonaws.com/index.html (publicly available).  
+1. **Data Source**: Cyclistic trip data (publicly available) [here](https://divvy-tripdata.s3.amazonaws.com/index.html).  
 2. **Tools Used**: SQL, Tableau, Excel.  
 3. **Analysis Team**: Cyclistic marketing analytics.
