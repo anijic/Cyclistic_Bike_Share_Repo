@@ -1,6 +1,6 @@
 # Cyclistic Bike-Share Usage Analysis (2023-2024)
 
-- Analyzing Cyclistic Bike-Share usage (2023-2024), using Excel,SQL and Tableau.
+- Analyzing Cyclistic Bike-Share usage (2023-2024), using Excel, SQL and Tableau. (View the Tableau dashboard [here](https://public.tableau.com/views/CyclisticBike-ShareDashboard2023-2024/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ![Alt image](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Cyclistic%20Bike-Share%20Dashboard%202023-2024.png)
 
