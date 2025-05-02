@@ -59,7 +59,7 @@ Tools used include SQL, Tableau, and Excel.
 ### **1. Trip Duration and Frequency**
 - Casual riders have longer average trip durations (24.1 minutes) compared to members (12.5 minutes).
   
-![Alt image](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Average%20Trip%20Duration%20by%20User%20Type.png).
+![Alt image](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Average%20Trip%20Duration%20by%20User%20Type.png)
 
 - Casual riders dominate longer trips (>60 minutes), while members dominate shorter trips (5–15 minutes).
 
