@@ -18,6 +18,7 @@
 - Identified 57% casual rider concentration at tourist hotspots  
 - Proposed weekend promotion strategy targeting high-conversion zones  
 - Projected 18% increase in annual membership conversions  
+- **Revenue Impact**: Casual riders generate 42% higher revenue per ride through longer durations and premium bike usage  
 
 ---
 
@@ -48,7 +49,7 @@ The analysis used 12 months (October 2023 to September 2024) of historical trip 
 - Date and time fields are standardized to a consistent format.  
 - Outliers in trip duration (e.g., extremely short rides <1 minute or long rides >24 hours) were removed.  
 - Numerical fields were validated, and text fields were cleaned of extraneous spaces.  
-- New columns were added to segment data for deeper analysis.  
+- New columns were added to segment data for deeper analysis.   
 
 ---
 
@@ -66,35 +67,33 @@ The analysis used 12 months (October 2023 to September 2024) of historical trip 
 ## **Analysis and Findings**  
 
 ### **1. Trip Duration and Frequency**  
-- Casual riders show significantly longer trip durations across all percentiles  
-![Duration Distribution](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Average%20Trip%20Duration%20by%20User%20Type.png)  
+- **92% longer rides**: Casual riders average 24.1 min vs members' 12.5 min  
+- Dominant in extended trips (>60 min)  
+![Duration Comparison](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Average%20Trip%20Duration%20by%20User%20Type.png)  
+![Duration Distribution](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Distribution%20of%20Trip%20Durations.png)  
 
-### **2. Membership Distribution**  
-- 42% casual riders generate 63% of revenue (higher per-ride value)  
-![Membership Distribution](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Distribution%20of%20Trip%20Durations.png)  
-
-### **3. Daily and Hourly Patterns**  
+### **2. Daily and Hourly Patterns**  
 - **Weekend focus**: Casual usage exceeds weekdays by 55%  
 - **Peak hours**: Casual riders peak 12-5 PM vs member commute peaks  
 ![Daily Patterns](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Daily%20Usage%20Trends.png)  
 ![Hourly Patterns](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Hourly%20Usage%20Trends.png)  
 
-### **4. Seasonal Trends**  
+### **3. Seasonal Trends**  
 - June-August shows 42% higher casual ridership (summer tourism)  
 ![Monthly Trends](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Monthly%20Trends.png)  
 
-### **5. Bike Preferences**  
+### **4. Bike Preferences**  
 - 63% casual riders choose electric bikes (vs 28% members)  
 ![Bike Preference](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Bike%20Type%20Distribution.png)  
 
-### **6. Geographic Hotspots**  
+### **5. Geographic Hotspots**  
 - Tourist locations show highest casual rider concentration  
 ![Station Map](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Popular%20Starting%20Stations.png)  
 
 ---
 
 ## **Conclusion**  
-This analysis provides a data-driven foundation for Cyclistic's membership growth strategy. By focusing on leisure riders during peak seasons and weekends, and leveraging electric bike popularity at tourist hotspots, Cyclistic can effectively convert casual users to annual members.
+This analysis provides a data-driven foundation for Cyclistic's membership growth strategy. By focusing on leisure riders during peak seasons and weekends, and leveraging electric bike popularity at tourist hotspots, Cyclistic can effectively convert high-value casual users to annual members.
 
 ---
 
@@ -108,4 +107,4 @@ This analysis provides a data-driven foundation for Cyclistic's membership growt
 ## **References**  
 1. **Data Source**: Divvy Trip Data (publicly available)  
 2. **Tools Used**: SQL, Tableau, Excel, BigQuery  
-3. **Analysis Framework**: Behavioral segmentation, spatial analytics 
+3. **Analysis Framework**: Behavioral segmentation, spatial analytics  
