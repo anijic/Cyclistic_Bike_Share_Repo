@@ -85,11 +85,11 @@ The analysis used 12 months (October 2023 to September 2024) of historical trip 
 
 ### **5. Bike Preferences**  
 - 63% casual riders choose electric bikes (vs 28% members)  
-![Bike Preference](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Popular%20Starting%20Stations.png)  
+![Bike Preference](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Bike%20Type%20Distribution.png)  
 
 ### **6. Geographic Hotspots**  
 - Tourist locations show highest casual rider concentration  
-![Station Map](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Bike%20Type%20Distribution.png)  
+![Station Map](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Popular%20Starting%20Stations.png)  
 
 ---
 
