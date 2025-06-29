@@ -5,7 +5,7 @@
 ## **Dashboard Summary**  
 - Interactive Tableau dashboard (linked [here](https://public.tableau.com/views/CyclisticBike-ShareDashboard2023-2024/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) showing ride patterns, trends, and geographic insights.
 
-![Cyclistic Dashboard](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Cyclistic%20Bike-Share%20Dashboard%202023-2024.png)
+![Cyclistic Dashboard](https://raw.githubusercontent.com/anijic/Cyclistic_Bike_Share_Repo/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Cyclistic%20Bike-Share%20Dashboard%202023-2024.png)
 
 ## **Technical Execution**  
 - **BigQuery**: Processed 12 months of ride data using window functions and geospatial analysis  
@@ -69,26 +69,26 @@ The analysis used 12 months (October 2023 to September 2024) of historical trip 
 ### **1. Trip Duration and Frequency**  
 - **92% longer rides**: Casual riders average 24.1 min vs members' 12.5 min  
 - Dominant in extended trips (>60 min)  
-![Duration Comparison](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Average%20Trip%20Duration%20by%20User%20Type.png)  
-![Duration Distribution](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Distribution%20of%20Trip%20Durations.png)  
+![Duration Comparison](https://raw.githubusercontent.com/anijic/Cyclistic_Bike_Share_Repo/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Average%20Trip%20Duration%20by%20User%20Type.png)  
+![Duration Distribution](https://raw.githubusercontent.com/anijic/Cyclistic_Bike_Share_Repo/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Distribution%20of%20Trip%20Durations.png)  
 
 ### **2. Daily and Hourly Patterns**  
 - **Weekend focus**: Casual usage exceeds weekdays by 55%  
 - **Peak hours**: Casual riders peak 12-5 PM vs member commute peaks  
-![Daily Patterns](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Daily%20Usage%20Trends.png)  
-![Hourly Patterns](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Hourly%20Usage%20Trends.png)  
+![Daily Patterns](https://raw.githubusercontent.com/anijic/Cyclistic_Bike_Share_Repo/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Daily%20Usage%20Trends.png)  
+![Hourly Patterns](https://raw.githubusercontent.com/anijic/Cyclistic_Bike_Share_Repo/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Hourly%20Usage%20Trends.png)  
 
 ### **3. Seasonal Trends**  
 - June-August shows 42% higher casual ridership (summer tourism)  
-![Monthly Trends](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Monthly%20Trends.png)  
+![Monthly Trends](https://raw.githubusercontent.com/anijic/Cyclistic_Bike_Share_Repo/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Monthly%20Trends.png)  
 
 ### **4. Bike Preferences**  
 - 63% casual riders choose electric bikes (vs 28% members)  
-![Bike Preference](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Bike%20Type%20Distribution.png)  
+![Bike Preference](https://raw.githubusercontent.com/anijic/Cyclistic_Bike_Share_Repo/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Bike%20Type%20Distribution.png)  
 
 ### **5. Geographic Hotspots**  
 - Tourist locations show highest casual rider concentration  
-![Station Map](https://github.com/anijic/Cyclistic_Bike_Share_Repo/blob/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Popular%20Starting%20Stations.png)  
+![Station Map](https://raw.githubusercontent.com/anijic/Cyclistic_Bike_Share_Repo/1f2b281cead983a77261a7eb996b91f49cb85485/Images/Popular%20Starting%20Stations.png)  
 
 ---
 
