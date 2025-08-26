@@ -94,6 +94,7 @@ The analysis used 12 months (October 2023 to September 2024) of historical trip 
 
 ## **Conclusion**  
 This analysis provides a data-driven foundation for Cyclistic's membership growth strategy. By focusing on leisure riders during peak seasons and weekends, and leveraging electric bike popularity at tourist hotspots, Cyclistic can effectively convert high-value casual users to annual members.
+The methodologies used here, RFM segmentation for customer cohort identification and market basket analysis for product affinity are directly transferable to analyzing patient readmission risk and treatment bundle effectiveness in healthcare.
 
 ---
 
@@ -108,3 +109,4 @@ This analysis provides a data-driven foundation for Cyclistic's membership growt
 1. **Data Source**: Divvy Trip Data (publicly available)  
 2. **Tools Used**: SQL, Tableau, Excel, BigQuery  
 3. **Analysis Framework**: Behavioral segmentation, spatial analytics  
+
